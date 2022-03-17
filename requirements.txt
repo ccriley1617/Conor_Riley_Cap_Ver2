@@ -122,7 +122,7 @@ packaging==21.3
     # via
     #   bleach
     #   matplotlib
-pandas==1.4.1
+pandas
     # via
     #   -r requirments.in
     #   seaborn
