@@ -42,7 +42,7 @@ ipykernel==6.9.2
     # via
     #   ipywidgets
     #   notebook
-ipython==8.1.1
+ipython
     # via
     #   -r requirments.in
     #   ipykernel
