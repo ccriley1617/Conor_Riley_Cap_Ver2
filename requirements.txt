@@ -172,7 +172,7 @@ pyzmq==22.3.0
     #   notebook
 scikit-learn==1.0.2
     # via sklearn
-scipy==1.8.0
+scipy
     # via
     #   scikit-learn
     #   seaborn
